@@ -28,7 +28,7 @@ export default function Hero() {
           className="w-40 h-40 rounded-full mb-6 border-4 border-indigo-500 shadow-lg"
         />*/}
 
-        <h1 className="text-5xl font-bold text-white dark:text-yellow-300 mb-4">Hi, I'm Basavaraj KL</h1>
+        <h1 className="text-5xl font-bold text-white dark:text-yellow-300 mb-4">Hi, I'm Prajwal</h1>
 
         <h2 className="text-2xl text-white dark:text-yellow-300 mb-6">
           <Typewriter
